@@ -9,3 +9,5 @@ Worked in a team of 5 to create an open world RPG styled game with multiple obje
 
 Resulted in a finished working demo of a gaming but we had to cut down on the number of features we had planned to include initially due to complications.
 Some complications included busy schedules, members who did not contribute as much and learning curves. 
+
+Repo only includes my portion of the workload.
